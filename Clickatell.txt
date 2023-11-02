@@ -1,0 +1,689 @@
+﻿1
+
+
+
+
+
+
+
+
+
+Compiled by Millicent Ngubane
+Clickatell Competitive Landscape
+
+
+1. Business History
+
+Clickatell is a technology company that sells mobile services to multiple businesses across the world to enable them to connect, interact and transact with their customers. Clickatell was founded in 2000 by brothers Pieter and Casper De Villiers and their friends Danie du Toit and Patrick Lawson. Clickatell was the first company to develop an API and continues to operate on Clickatell’s RESTful API which enables communication with mobile customers on multiple communication channels with a single integration, helping reduce the cost of development and assisting in scaling a mobile messaging strategy. Clickatell offers a variety of products such as advanced messaging, chat desk, chat flow, chat hub, campaign manager, marketplace, chat2pay and these products are usable through multiple communication channels including WhatsApp, USSD, SMS, and Apple Business Messaging. Clickatell is driven by the mission to give their clients a memorable service while saving them time. 
+Clickatell co-founders
+
+
+1.1 Business Model & Target market
+
+Clickatell operates on a B2B market, being the “middleman” that enables engagement between businesses/companies and the end-user client through mobile. (The product offering from Clickatell is targeted to a mass market across the globe with the focus on mobile messaging and chat. The company has successfully worked with a wide range of businesses on multiple local and international industries in South Africa, Canada, Nigeria and the United States. As a result, the business has established a reliable name within the 22 years of operating in the industry due to their specialization in chat commerce. 
+
+1.2 Vision and Mission
+          “A world where delightful customer experiences are the norm, we want to give people back their time.”
+1.3 Clickatell Product Offering 
+Clickatell offers multiple products that are usable across three major channels, namely, USSD, SMS, Apple Message for Business and WhatsApp. The available products include chat desk, chat flow, chat hub, chat2pay, campaign manager, advanced messaging, embedded-client authentication and market place. Convenience is at the core of Clickatell’s product offering. 
+
+The products enable Clickatell clients to connect, interact and transact with their end-users from anywhere in the world and at any time the end-user prefers, which enhances the relationship between them. Each product is designed with unique features to enable Clickatell clients to get the best value when using the products. 
+
+This further improves the efficiency with which businesses get to solve their customer’s needs while acquiring more customers and effectively satisfying their needs through a memorable experience. The products are found in Unity, a portal with user information in the form of videos and simplified documentation to guide the clients on how to activate and use the products.
+
+Clickatell Products
+
+1.4	Clickatell Competition on WhatsApp Business
+As mentioned above and portrayed in the image above, Clickatell offers a variety of products which are all priced differently to accommodate our different clients and their preferred usage. However, the table below showcases WhatsApp Business, the features included and the pricing plans for Clickatell and Competitors. This is due to the observed high competition on WhatsApp Business with some competitors only offering WhatsApp Business to their clients within the same market. The table portrays different pricing plans (although some companies/competitors are not transparent with their pricing), the table also showcases what is featured in WhatsApp Business with the intention of learning from our competitors what features we could add for our WhatsApp Business, the features that Clickatell does not currently have are highlighted in red. And lastly, the table shows the integrations that are enabled for clients within this channel. 
+
+The rest of the products are also discussed in a separate table, with features and pricing plans included and in comparison to our competitors who offer similar products as us. 
+Company​
+Monthly Pricing Plan
+(Plan features)
+Key WhatsApp Features
+Integrations
+Clickatell ​
+• Conversation based pricing.
+• First 1000 messages free every month (applicable in all price plans)
+• Fee per conversation instead of per template message sent.
+• Conversations measured in fixed 24-hour sessions and charges differ for business-initiated vs customer-initiated conversations and per region.
+
+Entry: $1
+· $50 monthly rate billed after first 3 months.
+· Up to 10k monthly business message bundle.
+
+Basic: $250
+· Up to 50K monthly business message bundle.
+· Online reporting
+· Support via email
+
+Starter: $625
+· Up to 125K monthly.
+· Online reporting.
+· Support.
+
+Enterprise: On request
+· Price for activation on Inquiry.
+· Purpose built for different businesses.
+· Secure 2-way rich conversations.
+· Automation via Clickatell’s Chat Flow Product.
+· Direct conversations to Chat Desk for live agents.
+· Chat2pay for billing and payments.
+· Verification through client embedded authentication.  
+· Onboarding support.
+
+· Zendesk support
+· Salesforce
+· Shopify
+· Zendesk
+
+InfoBip​
+· Pricing plan not available.
+· Charges businesses per 24-hour conversations.
+· Rates vary between business & customer-initiated conversations.
+·
+·
+
+·
+· Payment’s collection.
+· Secure messaging.
+· Faster engaging.
+
+
+· SugarCRM
+· Salesforce
+· Magento
+· Zoho
+· Shopify
+· VTEX
+· Slack
+· Hubspot
+· MicroSoft Dynamics 365 for sales
+· Freshworks
+· Big commerce
+· Service now
+· Marketo Engage
+· FaceBook Lead Ads
+· InfoBip Spoke
+· Jira
+· Optimove
+
+MessageBird
+​• 0-1000 messages free every month (applicable in all price plans).
+• Business initiated charged at USD 0.0147 per conversation (applicable in all price plans). 
+• User-initiated charged at USD 0.0088 (applicable in all price plans)
+
+First Package: $500
+· Processing fee for all OTT messages sent, in addition to channel fees.
+· Volume: (1000 – 100000) at USD 0.005 per messages
+
+Second Package: $2 500
+· Volume: (100 000- 500 000) at USD 0.005 per message.
+
+Third Package- Contact sales
+· Starting from over 500 000 messages.
+· Verification
+· Commerce
+· Personal customer care
+· Marketing campaigns
+· Interactive features
+· N/A
+Twilio
+· First 1000 messages free per month.
+
+Business-initiated pricing breakdown
+· Conversation rate (per 24 hours) - $0.0147
+· Twilio per message rate - $0.005
+
+User-initiated pricing breakdown
+· Conversation rate (per 24 hours) - $0.0088
+· Twilio per message rate - $0.005
+
+· Transactional messaging
+· Conversational messaging
+· Contact centre.
+· Account verification
+· Personalised communications
+· Sales/support
+· Salesforce
+· IBM
+LivePerson
+· ​N/A
+· Shipping or purchase updates
+· Appointment or payment reminders
+· Campaigns subscription
+· Salesforce
+· Microsoft Dynamics
+· Netsuite
+· Sugarcrm
+· Zendesk
+CM.com
+· N/A
+· Marketing channel
+· Customer personal service
+· Promote your store on WhatsApp and provide the best shopping experience.
+· CPaaS: Zapier
+· SaaS: Woo commerce
+· Payments:Shopify
+· Magento 2
+· Wordpress Woo commerce
+· Shopware
+· OpenCart
+· JTL shop
+· Oxid esales
+· Prestashop
+· Mijoshop
+· Aceshop
+· Gambio
+· SEO mercari
+· Modified
+· xt: commerce V4
+· xt: commerce V3.X
+· Jigoshop
+WATI
+· ​1000 free conversations per month (applicable in all price plans). 
+· WhatsApp charges based on conversations. 
+· Unlimited messages can be exchanged during a 24-hour conversation without extra fee.
+·  The fee per conversation varies by country.
+
+Standard (mid-size company): $49
+· 10 chatbots.
+· 50 chat flows per chatbot.
+· 100 keywords for autoreply.
+
+Pro (for mid-size companies): $98
+· 25 chatbots.
+· 200 chat flows per chatbot.
+· 400 keywords for auto reply.
+
+Enterprise: (large-sized companies)
+· Everything in Pro + standard
+· Dedicated account manager
+· Priority support
+· IP Whitelisting
+· Additional agents
+· Basic/Advanced chatbot builder
+· Collect data & trigger automation
+· Route chats & update attributes
+· Use WATI scheduler, API integration or google sheets
+· Unlimited contacts 
+· Optional Add- Ons
+· Shopify
+· WhatsApp
+· Google sheets
+· Chrome webstore
+· Woo commerce
+· ZOHO
+· Hubspot
+· Zapier
+· Pabbly
+· Integromat (coming soon)
+Haptik
+Starter: 350 000 (conversations annually)
+· Intelligent Analytics - Base
+· Live Agent Dashboard
+· Any 1 Channels
+· Any 1 Language
+· 5 Smart Skills
+· Customer Success
+· SLA - 99.9% uptime
+
+Growth: 700 000 (conversations annually)
+· Intelligent Analytics - Pro
+· Any 3 Channels
+· Any 3 Languages
+· 5 Smart Skills
+· Customer Success
+· SLA - 99.9% uptime
+· Commerce Plus
+
+Advanced: Custom enterprise license
+· For enterprise customers
+· Product catalogues
+· Chat message analytics
+· WhatsApp pay
+· Live agent dashboard
+· Unlimited Out-of-the-box integrations
+· Optional Add-Ons
+· Zendesk sunshine
+· Salesforce
+· Shopify
+· Freshdesk
+· Zoho
+Karix
+· N/A
+· Drive conversations.
+· Carry out transactions.
+· Send out notifications.
+· Service workflow.
+
+Interakt
+· 1000 free conversations per calendar month
+
+Starter Plan: $15
+· after free conversations, (pay as per conversation charges here.
+· Up to 1 app integration.
+· Rate Limit - 100 API calls/min.
+
+Growth Plan: $35
+· 24 hours SLA for Support.
+· Upto 3 app integrations.
+· Rate Limit - 300 API calls/min.
+
+Advanced Plan: $45
+· Unlimited external apps integration allowed.
+· Rate Limit - 600 API calls/min.
+· Agent Statistics.
+· Shared team inbox
+· Chat Automation
+· From 1 app integration to unlimited (based on tier)
+· Roles & permissions
+· Click to WhatsApp Ads Analytic dashboard
+· Magento
+· Woo commerce
+· Facebook Ads
+· Shopify
+· Google sheets
+· WebEngage
+· ZOHO
+· Integromat
+· Zapier
+· Pabbly
+· Razopay
+· InstaMojo
+· PayU
+Apex
+Basic: $33
+· 500 active users a month.
+· Standard support.
+· 2-day access to dedicated onboarding channel.
+· Unlimited live chat conversations
+
+Pro Plan: $98
+· 1500 active users a month.
+· Unlimited agents.
+· Unlimited live chat conversations.
+· Standard support.
+· 7-day access to dedicated onboarding channel.
+
+Custom Plan: Custom
+· Talk to as many active users/month as you need.
+· Volume based MAUs.
+· Unlimited live chat conversations.
+· Unlimited agents.
+· Prioritized support.
+· 30-day access to dedicated onboarding channel.
+· Chatbots
+· Live chat
+· Store locator
+· Promotional content
+· Customer support
+· Update customers automatically
+·
+The Messenger Network
+Beginner: $83
+· Basic chatbot builder
+· Limited automation
+· Limited to 2 webhooks
+· Unlimited contacts
+· Broadcasts and templates
+· Contact management.
+· Native integrations 
+
+Go-Getter: $199
+· Everything in Beginner.
+· Advanced automation
+· Google sheets integration
+· Subscribe/unsubscribe.
+· Assign team/agents.
+· Update custom attributes.
+· See tags.
+· Update chat status.
+· Monthly conversations.
+
+Dynamic: $229
+· Everything in Beginner and Go-Getter.
+
+Optimistic: $259
+· Everything in Beginner, Go-Getter and Dynamic.
+
+Mighty: $290
+· Everything in Beginner, Go-Getter, Dynamic, and Optimistic.
+· ​Team inbox
+· Chatbot builder
+· Automation
+· Webhooks
+· Unlimited contacts
+· Broadcasts & templates
+· Contact management
+· See tags
+· Subscribe/unsubscribe
+· Update chat status
+· Update custom attributes
+· Add-Ons
+· ​Google sheets
+· Shopify
+Messenger People
+Starter: $216
+· 50 Conversations incl.
+· 1 User incl.
+· 10 Widgets incl.
+
+Professional: $434
+· 1.000 Conversations incl.
+· 5 User incl.
+· 100 Widgets incl.
+
+Business: $760
+· 5.000 Conversations incl.
+· 10 User incl.
+· 1.000 Widgets incl.
+· All messaging apps plus webchat
+· Chat inbox
+· Newsletter tool
+· Chatbot builder
+· Chatbot templates
+· Targeting
+· Analytics
+· Roles & permissions management
+· including green tick on WhatsApp 
+· API
+· 24/7 tech support + help center.
+
+· Shopify
+· Shopware
+Sleekflow
+Startup- Free
+· 100 customer contacts
+· 3 users
+· 100 broadcast messages
+· 5 automation rules
+· 3 messaging channels
+· 500 products in Custom Catalogue
+
+Pro: $99
+· 2,000 customer contacts
+· 3 users
+· 5,000 broadcast messages
+· 10 automation rules
+· 5 messaging channels
+· Zapier & Integromat integration
+· 1000 free WhatsApp conversations
+· 500 products in Custom Catalog
+
+Premium: $349
+· 10,000 customer contacts
+· 5 users
+· Unlimited broadcast messages
+· Unlimited automation rules
+· 10 messaging channels
+· Analytics dashboard
+· API integration
+· Priority support
+· Zapier & Integromat integration.
+· 1000 free WhatsApp conversations.
+· 500 products in Custom Catalog.
+
+Enterprise: Custom
+· Customized number of customer contacts
+· Unlimited broadcast messages
+· Unlimited automation rules
+· Unlimited messaging channels
+· Zapier & Integromat integration
+· Analytics dashboard
+· Priority support
+· Onboarding support
+· Salesforce integration
+· Shopify integration
+· 1000 free WhatsApp conversations
+· Green tick for eligible WhatsApp Business accounts
+· Custom Catalog
+· Broadcast messages
+· Automation rules
+· Analytics dashboard
+· Priority support
+· Onboarding support
+· Custom catalogue
+· Green tick for eligible WhatsApp Business accounts.
+· Zapier
+· Integromat
+· Salesforce
+· Shopify
+
+
+1.4 Strategic Analysis 
+
+The strategic planning of a business involves the analysis of a firm’s internal and external factors to better understand its’ long-term organizational effectiveness.  The business environment is one that is dynamic, ever-changing, and always at a constant flux due to the presence of VUCA (volatility, uncertainty, complexity, and ambiguity). In the face of VUCA, organizations like Clickatell need to ensure that decision-making is centered around the use of evidence, in the form of data, statistics and objective information to guide strategic decisions. Strategic decisions are complex, high risk and impact the overall shareholders and stakeholders of the business. Researchers iterate the importance of strategic planning and the setting of clear goals which are closely linked towards improving organizational performance. 
+
+The management tools that will be used to analyze Clickatell’s market and/or competitive landscape include the SWOT framework, comprising of in-depth analysis of the opportunities and threats using the Porter’s Five Forces Framework as well as the PESTEL analysis. The report will further provide general recommendations to tackle issues. 
+
+2. SWOT Analysis
+
+SWOT (strengths, weaknesses, opportunities, and threats) analysis is a framework used to evaluate a company's competitive position and to develop strategic planning. SWOT analysis assesses internal and external factors, as well as current and future potential. The “Strengths” and “Weaknesses” components of the framework are considered an internal matter for the organization and “Opportunities” and “Threats” are related to the external environment that can be exploited as they may lead to problems for the entire organization if not well utilized or monitored.
+
+There are several studies that confirm the SWOT analysis as one of the most widely used strategy tools amongst managers or individual firms. The SWOT analysis may well be used more than other management techniques in the process of decision making. There has been little attention given to understanding the social and institutional context which shaped the historical evolution of the SWOT framework. Below is the analysis of the 4 key areas of the SWOT framework for Clickatell.
+
+Strengths
+Weaknesses
+Opportunities
+Threats
+· Invented the world’s first API
+· Limited Brand awareness.
+· Events sponsorship to increase brand awareness.
+· High bargaining power of suppliers: A rising price for raw materials can be an issue for Clickatell’s profitability.
+ 
+· First to connect internet businesses with consumers on mobile using SMS that could be implemented with just four lines of code.
+· Limited partnerships with NGOs: charity work.
+· Tapping into the government industry: the possibility of purchasing Clickatell products by the state and federal contractors for the government.
+· Subject to different laws in different markets due to constant fluctuations in the quality of products sold in those markets.
+· In operation for more than 22 years.
+· Limited partnerships with social events: Voting SMS, race/marathon.
+· Establish a great presence in the US market.
+· The demand for high-profitable products is seasonal and any unpredictability during the peak season could have an impact on the profits of the business in the near to long-term.
+· Chat commerce transformers.
+· Invisible client reviews on website.
+· Partnership with millennial TikTok user to increase social media following and ultimately brand awareness.
+· New environmental regulations in any country could pose the threat to some existing product categories.
+· Products designed to help clients innovate their business structure to enhance their effectiveness.
+· The amount invested into Research and Development is below the top performers in the market.
+· Improved marketing strategies.
+· Creating products in response to developments by competitors may lead to lack of supply for novelty products.
+· USP- offers professional services through sales onboarding team which focuses on solution architect to enable API integrations.
+
+· Platforms to exploit: google message, Facebook messenger, Instagram messenger,
+
+· Newly founded similar companies gaining more social presence which puts them at an advantage of easily acquiring new clients.
+· Strong relationship with WhatsApp from the time WhatsApp was founded: first 500 million+ WhatsApp users were authenticated using Clickatell’s SMS platform. 
+
+
+· High threat of new entrants
+· Launched digital distribution airtime and data.
+
+
+· High bargaining power of buyers.
+· Introduced the world's first chat banking solution with ABSA; were the first to launch telco chat with MTN.
+
+
+
+· First to launch Chat2Pay with patented rights.
+
+
+
+· Strong understanding of different markets: Clickatell clients are dispersed across the world.
+
+
+
+· US clientele uses apple messaging more than the South African clientele which uses WhatsApp more while the Nigerian clientele uses USSD.
+
+
+
+· Global exposure with multiple-award wins.
+
+
+
+· Diversity, inclusion and belonging are immensely valued at Clickatell.
+
+
+
+· Strong presence in the Middle Eastern & Southern Africa.
+
+
+
+
+
+
+
+
+2.3 PESTLE Analysis
+Despite being a renowned organisation, Clickatell still operates in an environment that comprises of external forces, this requires the company to constantly scan the environment in which they operate to gain all the necessary information regarding the trends (both current and upcoming), events and relationships they have within the operating environment. 
+
+Therefore, a PESTEL analysis framework is discussed herein to assess Clickatell’s strengths and weaknesses on a macro level. The PESTEL framework is used due to its comprehensive macro-environmental analytical capabilities, focusing on the Political, Economic, Technological, Environmental, Legal and Ethical factors that can have a direct impact on the business. 
+
+The macro-environment factors can impact the Porter Five Forces that shape strategy and competitive landscape. They can impact individual firm’s competitive advantage or overall profitability levels of the Technology industry. This is why a market environment analysis will be conducted for Clickatell using Porter’s five forces to assess its competitive landscape against competitors. 
+
+PESTEL analysis provides great detail about the operating challenges Clickatell will face in prevalent macro environment other than competitive forces. For example, an Industry may be highly profitable with a strong growth trajectory, but it won't be any good for Clickatell if it is situated in unstable political environment.
+
+Political factors that impact Clickatell
+Political factors play a significant role in determining the factors that can impact Clickatell's long term profitability in a certain country or market. Clickatell is operating in chat commerce in more than dozen countries and expose itself to different types of political environment and political system risks. Clickatell can closely analyze the following factors before entering or investing in a certain market-
+
+· Political stability and importance of chat commerce in the country's economy.
+· Risk of military invasion.
+· Level of corruption - especially levels of regulation in Technology sector.
+· Bureaucracy and interference in chat commerce and application software industry by government.
+· Legal framework for contract enforcement
+· Intellectual property protection.
+· Trade regulations & tariffs related to Technology.
+· Favored trading partners.
+· Anti-trust laws related to Application Software
+· Pricing regulations – Are there any pricing regulatory mechanism for Technology?
+· Taxation - tax rates and incentives.
+· Wage legislation - minimum wage and overtime.
+· Work week regulations in Application Software.
+· Mandatory employee benefits.
+· Industrial safety regulations in the Technology sector.
+· Product labeling and other requirements in Application Software.
+
+Economic factors that impact Clickatell
+The Macro environment factors such as – inflation rate, savings rate, interest rate, foreign exchange rate and economic cycle determine the aggregate demand and aggregate investment in an economy. While microenvironment factors such as competition norms impact the competitive advantage of the firm. Clickatell can use country’s economic factor such as growth rate, inflation & industry’s economic indicators such as Chat Commerce and Application Software industry growth rate, client/end-user spending etc. to forecast the growth trajectory for the sector and the organization. Economic factors that Clickatell should consider while conducting PESTEL analysis are –
+· Economic growth rate
+· Discretionary income
+· Unemployment rate
+· Inflation rate
+· Interest rates
+· Skill level of workforce in Development/Application Software industry.
+· Education level in the economy
+· Labor costs and productivity in the economy
+· Business cycle stage (e.g. prosperity, recession, recovery)
+· Type of economic system in countries of operation – what type of economic system there is and how stable it is.
+· Government intervention in the free market and related Technology
+· Exchange rates & stability of host country currency.
+· Efficiency of financial markets – Does Clickatell needs to raise capital in local market?
+· Infrastructure quality in Application Software industry
+· Comparative advantages of host country and Technology sector in the particular country
+
+Social Factors that Impact Clickatell
+Society’s culture and way of doing things impact the culture of an organization in an environment. Shared beliefs and attitudes of the population play a great role in how marketers at Clickatell will understand the clients of a given market and how they design the marketing message for Chat commerce and Application Software industry consumers. Social factors that leadership of Clickatell should analyze for PESTEL analysis are –
+  
+· Demographics and skill level of the population (in this case we know that Clickatell is a B-2-B company and demographics don’t take priority).
+· Class structure, hierarchy and power structure in the society.
+· Education level as well as education standard in Clickatell’s industry.
+· Culture (gender roles, social conventions, reactions new technology)
+· Entrepreneurial spirit and broader nature of the society. Some societies encourage entrepreneurship while some don’t.
+· Attitudes (health, environmental consciousness, etc.)
+· Leisure interests.
+
+Technological factors that impact Clickatell
+Technology is fast disrupting various industries across the board. The transportation industry is a good case to illustrate this point. Over the last 5 years, the industry has been transforming really fast, not even giving chance to the established players to cope with the changes. The taxi industry is now dominated by players like Uber, Bolt, and In-Driver. The car industry is fast moving toward automation led by technology firm such as Google & manufacturing is disrupted by Tesla, which has stated an electronic car revolution. 
+
+A business should not only do technological analysis of the industry but also the speed at which technology disrupts that industry. Slow speed will give more time while fast speed of technological disruption may give a company little time to cope and be profitable. Technology analysis involves understanding the following impacts –
+
+· Recent technological developments by Clickatell competitors (as observed with some WhatsApp Business features from our biggest competitors above).
+· Technology's impact on product offering.
+· Impact on cost structure in Chat commerce and Application Software industry.
+· Impact on value chain structure in technology sector.
+· Rate of technological diffusion.
+
+Environmental Factors that Impact Clickatell
+Different markets have different norms or environmental standards which can impact the profitability of an organization in those markets. Even within a country, often, states or provinces can have different environmental laws and liability laws. For example in United States – Texas and Florida have different liability clauses in case of mishaps or environmental disaster. Similarly a lot of European countries give healthy tax breaks to companies that operate in the renewable sector.
+
+Before entering new markets or starting a new business in existing market the firm should carefully evaluate the environmental standards that are required to operate in those markets. Some of the environmental factors that a firm should consider beforehand are –
+
+· Weather.
+· Global Pandemics (as observed with Covid-19 which shifted Clickatell operations to a Hybrid mode, with most employees continuing to work remotely. Working remotely includes certain costs for the company, including communication, productivity etc. This therefore calls for Clickatell to always be prepared for natural disasters to not only remain afloat but to also ensure that the level of service provided to clients remains the same despite working remotely or from office)
+· Wars (Ukraine Vs Russia war which not only affected those countries but a lot of countries including South Africa, causing interest rates drastic increase and so forth)
+· Climate change.
+· Laws regulating environment pollution.
+· Air and water pollution regulations in Application Software industry.
+· Recycling.
+· Waste management in Technology sector.
+· Attitudes toward “green” or ecological products.
+· Endangered species.
+· Attitudes toward and support for renewable energy.
+
+Legal Factors that Impact Clickatell
+In number of countries, the legal framework and institutions are not robust enough to protect the intellectual property rights of an organization. A firm should carefully evaluate before entering such markets as it can lead to theft of organization’s secret sauce thus the overall competitive edge. Some of the legal factors that Clickatell leadership should consider while entering a new market are –
+
+· Anti-trust law in Application Software industry and overall in the country.
+· Discrimination law.
+· Copyright, patents / Intellectual property law (as Clickatell has done with Chat2Pay in respective countries).
+· Consumer protection and e-commerce.
+· Employment law.
+· Health and safety law.
+· Data Protection (as Clcikatell continuously does with Cybersecurity training and webinars).
+
+
+2.4 Threats (Porter’s Five Forces Framework)
+
+In this section the market environmental analysis for Clickatell is conducted using Porter’s five forces namely, threat of the new entrants, bargaining power of suppliers, bargaining power of buyers, threat of substitutes and rivalry amongst competitors. These five forces provide organizations with understanding of strategic implications within the industry as emphasized by Porter. The image gives a brief overview of what each force entails.
+
+Pricing strategy is not straight forward​. Basis for pricing varies across competitors. Customers may find it difficult to compare prices​ due to regional variation in pricing.
+The bargaining power of suppliers is high due to Clickatell and competitors being highly dependent on them for raw materials. The main suppliers include Meta, WhatsApp, AWS etc.
+Competitors have substituted Clickatell’s Chat2Pay with WhatsApp pay. 
+Threat of new entrants is high for Clickatell, with the WhatsApp Business due to ease with which companies can set it up, several number of businesses have joined the chat commerce. industry in the recent years to compete for market share with WhatsApp being used as the main channel to connect businesses with their customers.
+Switching costs are very low for buyers thus making it easy for them to switch service providers.
+
+
+
+2.3.1 Threats of New Entrants- High
+Threats of new entrants refer to the ability of a company to enter the industry. High barriers prevent a new company entering the industry. There are two factors that need to be assessed when evaluating the threat of new entrants, how attractive the growth & profit prospects are for new entrants and if the new entrants resource & capabilities lower the barrier to entry. Barriers to entry include: -
+·  Product differentiation: A new entrant looking to compete in an industry must bring a highly unique product/service to market in order to succeed. 
+· Cost disadvantages: Existing companies with large customer bases are able to utilize economies of scale to offer their products or services at a lower cost than new companies. Companies can achieve economies of scale by increasing production and lowering costs. This happens because costs are spread over a larger number of goods.
+· Capital requirements: There is a high fixed cost to entering a new industry. 
+· Access to distribution channels: Existing companies control supply chains and distribution channels and have easy access to raw materials. 
+· Switching costs: Customers pay a price for switching from one company to another. Switching costs can deter customers from leaving an existing company for a new one. 
+· Government policy: Government policy may regulate a company’s operations and require licenses and permits in order to enter an industry. 
+
+
+2.3.2 Bargaining Power of Suppliers – High
+• The number of suppliers in the industry are not too many, main suppliers are Meta, WhatsApp, Amazon, Apple, Facebook, Google.
+• Product offering is the same, pricing offering differs according to how each client uses the suppliers platform.
+• Limited uniqueness of supplier product offering.
+• It is within each client’s power to ensure that the product is designed and priced in a manner that makes it hard for competitors to substitute
+
+2.3.3 Bargaining Power of Buyers - High
+• The bargaining power of buyers assesses how easy it is for customers to reduce prices. The bargaining power of buyers is perceived to be high for Clickatell, this is despite Clickatell being a B-2-B company. 
+• Switching cost and effort is relatively low. 
+• Clients negotiating with competitors for the best price forces Clickatell to lower the prices as much as they can to gain and retain more clients, while avoiding clients being easily poached by competitors for their lowest prices.
+
+2.3.4 Threat of Substitutes - High
+This refers to “the core product being able to be substituted with either quality or price. This force assesses the quality and nature of the product, and the price sensitivity of the customers. This force investigates the ease at which the customer can switch the product”. Furthermore, it also speaks to the unique selling point of the organisation. 
+• WhatsApp, the main product that is easily substituted for features.
+• Similar pricing plan – Offering 1000 free messages each month, no other competitor offers less or more than this number to attract customers differently, However Sleekflow offers a whole free plan which includes having 100 customer contacts, 3 users, 100 broadcast messages, 5 automation rules, 3 messaging channels and 500 products n Custom Catalogue. Although it does not specify how long this free plan is offered for.
+• Clickatell’s Unique Selling Point (USP)- with the professional services offered at Clickatell, it is not easy to substitute this component despite there being numerous competitors competing for the same clients as this requires a team of players to offer these services to clients and costs company large amounts of funds to set up this department together with a team of experts.
+• User portal (Unity)- another component that stands out with Clickatell is this portal that enables Clients to manage their own products and accounts in a safe space that is guided by several product managers to ensure that each product continues to function at the best level possible with continuous revamping of the features.
+• Packaging- CM.com main competitor in packaging of their products. Unlike Clickatell that has three product categories, namely, connect, interact and transact; CM.com has two categories: 'Software as a service' where they give pricing for their individual products such as Mobile Service Cloud, Mobile Marketing Cloud and Conversational AI Cloud, and the second category is 'Platform as a service' with this one the business can have access to all their conversational channels( they are about 8) and all of their capabilities.
+
+2.3.5 Rivalry amongst competitors - High
+Lack of differentiation or low switching costs lead to rivalry where there is high level of price competition.
+
+• Several competitors such as Infobip, Messagebird, Twilio, LivePerson, CM.com, Messenger People, Interakt, Haptik, Apex and WATI who fall under the top 10 due to product offering and pricing plan similarity as well as exposure could potentially cause rivalry amongst each other.
+• Competitors are highly concentrated in the industry with high brand awareness and high revenue.
+• Diversity of competitors is high, e.g. multiple industries served.
+• Competitors drastic growth in the industry despite their not so many years being functional.
+• No barriers to exit for clients.
+• No switching costs to change service providers.
+These are the factors that could potentially lead to rivalry amongst competitors due to the same industries where each company sources clients, and the fact that all of the competitors also have a global exposure. 
+
+
+
+
